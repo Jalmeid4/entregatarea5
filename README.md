@@ -1,2 +1,2 @@
 # entregatarea5
-Todos los programas solicitados en la tarea 6 QM2515
+Todos los programas solicitados en la tarea 5 QM2515
